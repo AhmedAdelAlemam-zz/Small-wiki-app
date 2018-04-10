@@ -1,0 +1,65 @@
+body {
+  background-color: #092B40;
+  font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+  text-align: center;
+}
+
+.fullHeight {
+  text-align: center;
+  margin-top: 10em;
+}
+
+form {
+  margin-top: 1.5em;
+}
+
+.wrapper a {
+    color: white;
+    text-decoration: none;
+    margin-top: 1em;
+}
+
+.wrapper a:hover {
+  text-decoration: none;
+  color: #87ceeb;
+}
+
+input {
+  padding: .5em;
+  width: 40%;
+  border: 5px solid #008000;
+  border-radius: 5px 5px 5px 5px;
+}
+
+ul li {
+  list-style-type: none;
+  display: block;
+  margin-bottom: 10px;
+  padding: 15px 30px 5px 30px;
+  background-color: #2e8b57;
+  float: left;
+  width: 100%;
+}
+
+a h1:hover, a p:hover {
+  color: #87ceeb;
+}
+ul a:hover {
+  text-decoration: none;
+  color: skyblue;
+}
+
+ul h1 {
+  font-size: 1.5em;
+  color: #fff;
+  float: left;
+  text-align: left;
+  font-weight: 900;
+}
+
+ul p {
+  font-size: 15px;
+  color: #fff;
+  float: left;
+  text-align: left;
+}
